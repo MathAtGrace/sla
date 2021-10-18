@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/rbeezer/sla.svg?branch=master)](https://travis-ci.org/rbeezer/sla)
 
+**Website:** https://mathatgrace.github.io/sla/
+
 Sage and Linear Algebra
 -----------------------
 
